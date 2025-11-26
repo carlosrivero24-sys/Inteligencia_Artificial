@@ -9,4 +9,4 @@ Carpeta de CNN: En esta carpeta hay actividades con redes convolucionales, las q
 
 Carpeta de RNN: Esta fue la ultima carpeta que vimos, aqui trabajamos con secuencias para predecir a futuro con los datos que ya tenemos, hay diferentes modelos con datos reales, hay uno que fue hecho por una compañera y yo que fue un experimento que salio algo regular pero se aprendio mas en base a eso. 
 
-_Y eso es todo pueden revisarlo y si les sirve de algo los pueden ocupar_
+_Y eso es todo pueden revisarlo y si les sirve de algo los pueden ocupar._
